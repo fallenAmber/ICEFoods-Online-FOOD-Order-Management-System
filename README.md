@@ -2,30 +2,25 @@
 
 ICEFoods is an online food order management system for a restaurant that enables customers to place food orders online and the restaurant staff to manage the orders effectively. The proposed system is responsive and connected to MySQL database. Our system will provide customers with an easy-to-use platform for ordering food, making payments, and tracking the status of their orders. The system will also enable the restaurant staff to manage the orders, monitor the inventory, and update the menu as required.
 
-<img width="1440" alt="Screen Shot 2023-03-08 at 11 46 16 PM" src="https://user-images.githubusercontent.com/48941639/223793487-bb36c6d1-da30-4fe2-a4fb-96bfb1f8
 
-<img width="1440" alt="Screen Shot 2023-03-08 at 11 49 19 PM" src="https://user-images.githubusercontent.com/48941639/223805242-793818ce-59f9-4eae-a9b0-4c4887f7e705.png">
+<img width="1440" alt="Screen Shot 2023-03-08 at 11 49 19 PM" src="https://user-images.githubusercontent.com/48941639/223805910-c24dab33-c120-4f7a-bef9-0a7cb1d88e4b.png">
 
-<img width="1440" alt="Screen Shot 2023-03-08 at 11 46 10 PM" src="https://user-images.githubusercontent.com/48941639/223803631-76142f33-f863-4e09-ba25-53771465af94.png">
+<img width="1440" alt="Screen Shot 2023-03-08 at 11 46 10 PM" src="https://user-images.githubusercontent.com/48941639/223805982-8d66d674-6f6b-4580-8b20-a0a66a9d808d.png">
 
-<img width="1440" alt="Screen Shot 2023-03-09 at 12 36 42 AM" src="https://user-images.githubusercontent.com/48941639/223804851-c4d2ee37-c852-42e6-a47f-97c7a047fee3.png">
-ng">
+<img width="1440" alt="Screen Shot 2023-03-08 at 11 46 29 PM" src="https://user-images.githubusercontent.com/48941639/223806033-1251a30c-c537-4c53-8e71-c59a5001b6fc.png">
 
-<img width="1440" alt="Screen Shot 2023-03-08 at 11 46 29 PM" src="https://user-images.githubusercontent.com/48941639/223803690-b0cb2cb4-217d-4596-93cd-b0bf34a38a38.png">
+<img width="1440" alt="Screen Shot 2023-03-08 at 11 46 42 PM" src="https://user-images.githubusercontent.com/48941639/223806070-0585368a-f6d3-425e-9592-5d1617e7f3f9.png">
 
-<img width="1440" alt="Screen Shot 2023-03-08 at 11 49 56 PM" src="https://user-images.githubusercontent.com/48941639/223803791-a6493e9f-3a53-4d6b-99ee-13a365b984a0.png">
+<img width="1440" alt="Screen Shot 2023-03-08 at 11 49 49 PM" src="https://user-images.githubusercontent.com/48941639/223806118-a3d70595-5d26-4618-8a1f-83afa54a15a9.png">
 
-<img width="1440" alt="Screen Shot 2023-03-08 at 11 46 42 PM" src="https://user-images.githubusercontent.com/48941639/223803723-78df199a-af89-44d9-ae9d-b5c96495785d.png">
+<img width="1440" alt="Screen Shot 2023-03-09 at 12 36 42 AM" src="https://user-images.githubusercontent.com/48941639/223806175-c522692f-3f14-40a9-a9c7-8b71007905ef.png">
 
+<img width="1440" alt="Screen Shot 2023-03-08 at 11 50 04 PM" src="https://user-images.githubusercontent.com/48941639/223806219-8683bad9-9742-4f99-b729-95cf1d37bbdb.png">
 
+<img width="1440" alt="Screen Shot 2023-03-08 at 11 50 12 PM" src="https://user-images.githubusercontent.com/48941639/223806262-b607b443-6a4c-4c19-b751-c7e6db945d4b.png">
 
-<img width="1440" alt="Screen Shot 2023-03-08 at 11 49 43 PM" src="https://user-images.githubusercontent.com/48941639/223803760-468460aa-0741-410d-97ff-4d9c899e5689.png">
+<img width="1440" alt="Screen Shot 2023-03-08 at 11 49 49 PM" src="https://user-images.githubusercontent.com/48941639/223806309-8533b833-7719-4e72-a69d-af19e61d8a3d.png">
 
-<img width="1440" alt="Screen Shot 2023-03-08 at 11 49 56 PM" src="https://user-images.githubusercontent.com/48941639/223803807-96f9e754-65e7-4ac5-9752-d7e2e381acbe.png">
-
-![Uploading Screen Shot 2023-03-08 at 11.50.04 PM.png…]()
-
-<img width="1440" alt="Screen Shot 2023-03-08 at 11 50 12 PM" src="https://user-images.githubusercontent.com/48941639/223803882-aff592a8-7e86-41c6-be92-0ae19f8ce848.png">
 
 
 ### Product Scope
