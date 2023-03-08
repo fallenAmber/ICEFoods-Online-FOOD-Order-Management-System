@@ -3,6 +3,7 @@
 ICEFoods is an online food order management system for a restaurant that enables customers to place food orders online and the restaurant staff to manage the orders effectively. The proposed system is responsive and connected to MySQL database. Our system will provide customers with an easy-to-use platform for ordering food, making payments, and tracking the status of their orders. The system will also enable the restaurant staff to manage the orders, monitor the inventory, and update the menu as required.
 
 
+
 <img width="1440" alt="Screen Shot 2023-03-08 at 11 49 19 PM" src="https://user-images.githubusercontent.com/48941639/223805910-c24dab33-c120-4f7a-bef9-0a7cb1d88e4b.png">
 
 <img width="1440" alt="Screen Shot 2023-03-08 at 11 46 10 PM" src="https://user-images.githubusercontent.com/48941639/223805982-8d66d674-6f6b-4580-8b20-a0a66a9d808d.png">
