@@ -48,9 +48,13 @@ mechanisms, firewalls, and intrusion detection systems.
 # Product Scope
 
 ICEFoods is a web application designed for customers who want to purchase food items online. It can be accessed by anyone with an Internet connection and will be hosted on a central server, with a web browser used to access it from different devices.
+
 The system is being developed for the food industry in Rajshahi to assist ICEFoods restaurant in managing their daily food orders. Customers can use the system to place orders and track the status of their orders. They can also view the daily food collections of the restaurant in their area and manage their ordered items.
+
 This project particularly aimed at providing an easy way for people in Rajshahi to order food online. Many people in this area prefer ordering food online due to its convenience. The web application will provide various types of food items that customers can choose and order online. After the order is placed, a delivery person will deliver the food to desired location. Customers can cancel orders they are not satisfied with, but they will only have to pay the delivery charge.
+
 The purpose of this document is to outline the requirements for the project and is intended for all stakeholders involved in the system. Developers should refer to this document as the only source of requirements for the project and any future plans. Requirements statements, whether written or verbal, should not be considered valid unless they appear in this document or its revisions.
+
 The system administrator will manage all food items, including their prices, quantities, dates, and locations. The administrator will also confirm orders and monitor their status for specific customers. Additionally, the administrator will add new food items to the system and perform any necessary roles. Customers can cancel or modify their orders by logging into the system.
 
 
