@@ -6,7 +6,7 @@ ICEFoods is an online food order management system for a restaurant that enables
 
 <img width="1440" alt="Screen Shot 2023-03-08 at 11 46 16 PM" src="https://user-images.githubusercontent.com/48941639/223793487-bb36c6d1-da30-4fe2-a4fb-96bfb1f8a61a.png">
 
-#Requirements
+# Requirements
 
 The system has been developed to meet the following Functional and Non-Functional Requirements.
 
@@ -28,7 +28,7 @@ orders, and proceed to checkout. The cart must also display information about th
 • The system should allow the restaurant staff to manage orders, track inventory, and update
 the menu.
 
-## Non-functional Requirements
+### Non-functional Requirements
 
 • The web application must be easy to use and navigate, with clear instructions for users, and accessible to people with disabilities. An arbitrary user shall be able to find a desired product in less than 40 seconds.
 • The web application must be able to support a minimum of 1000 concurrent users and provide fast response times to ensure a smooth user experience.
