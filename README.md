@@ -4,6 +4,8 @@ ICEFoods is an online food order management system for a restaurant that enables
 
 <img width="1440" alt="Screen Shot 2023-03-08 at 11 46 16 PM" src="https://user-images.githubusercontent.com/48941639/223793487-bb36c6d1-da30-4fe2-a4fb-96bfb1f8
 
+<img width="1440" alt="Screen Shot 2023-03-08 at 11 49 19 PM" src="https://user-images.githubusercontent.com/48941639/223805242-793818ce-59f9-4eae-a9b0-4c4887f7e705.png">
+
 <img width="1440" alt="Screen Shot 2023-03-08 at 11 46 10 PM" src="https://user-images.githubusercontent.com/48941639/223803631-76142f33-f863-4e09-ba25-53771465af94.png">
 
 <img width="1440" alt="Screen Shot 2023-03-09 at 12 36 42 AM" src="https://user-images.githubusercontent.com/48941639/223804851-c4d2ee37-c852-42e6-a47f-97c7a047fee3.png">
